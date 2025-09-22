@@ -4,7 +4,7 @@ A modern web application for generating and managing Kubernetes manifest files, 
 
 ## 🌐 Live Demo
 
-**Access the application**: [https://1102680.github.io/k8s-manifest-artifact/](https://1102680.github.io/k8s-manifest-artifact/)
+**Access the application**: [https://jeonck.github.io/k8s-manifest-artifact/](https://jeonck.github.io/k8s-manifest-artifact/)
 
 ## 📋 Project Description
 
@@ -35,7 +35,7 @@ This tool provides an intuitive web interface for creating Kubernetes manifest f
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/1102680/k8s-manifest-artifact.git
+git clone https://github.com/jeonck/k8s-manifest-artifact.git
 cd k8s-manifest-artifact
 
 # Install dependencies
@@ -91,6 +91,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Links
 
-- **Live Application**: [https://1102680.github.io/k8s-manifest-artifact/](https://1102680.github.io/k8s-manifest-artifact/)
-- **Repository**: [https://github.com/1102680/k8s-manifest-artifact](https://github.com/1102680/k8s-manifest-artifact)
-- **Issues**: [https://github.com/1102680/k8s-manifest-artifact/issues](https://github.com/1102680/k8s-manifest-artifact/issues)
+- **Live Application**: [https://jeonck.github.io/k8s-manifest-artifact/](https://jeonck.github.io/k8s-manifest-artifact/)
+- **Repository**: [https://github.com/jeonck/k8s-manifest-artifact](https://github.com/jeonck/k8s-manifest-artifact)
+- **Issues**: [https://github.com/jeonck/k8s-manifest-artifact/issues](https://github.com/jeonck/k8s-manifest-artifact/issues)
